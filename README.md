@@ -7,7 +7,12 @@ To install all dependencies run :
 npm i
 ```
 
-Try running some of the following tasks:
+To Compile:
+```shell
+npx hardhat compile
+```
+
+Now, Try running some of the following tasks:
 
 ```shell
 npx hardhat test
